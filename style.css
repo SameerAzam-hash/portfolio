@@ -98,7 +98,7 @@ section {
 }
 
 .home {
-    background: url(images/home.jpg) no-repeat;
+    background: url(images/home.webp) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
